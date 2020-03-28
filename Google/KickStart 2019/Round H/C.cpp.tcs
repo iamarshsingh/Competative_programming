@@ -1,0 +1,1 @@
+[{"input":"6\n0 0 2 0 0 1 0 0 0\n0 0 0 0 0 0 0 0 12\n0 0 0 0 2 0 1 1 0\n3 1 1 1 0 0 0 0 0\n3 0 0 0 0 0 3 0 2\n0 0 0 0 0 0 0 1 0","output":"Case #1: YES\nCase #2: YES\nCase #3: NO\nCase #4: YES\nCase #5: YES\nCase #6: NO"}]

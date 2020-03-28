@@ -1,0 +1,751 @@
+750
+339 341 t13 t1v1 t2t t3r1 t4d2 t532 t61 t7d t9d1 t9k t9l1 t9n1 tbh tdl1 tgn thm thp1 tjs1 tm9 tmf tmg tn52 tpg1 ts01 tt82 ttb1 tw21 tzr 
+470 471 t001 t1g t1t t3b t3l1 t3x t5w1 t622 t63 t6h t7d t882 tdd1 tdg1 thh1 tj01 tl02 tl51 tn81 tp41 tq81 tqb2 trp1 trw1 tsl tv81 tvz tzw 
+795 796 t0t1 t221 t2w t3f t4n1 t4t t6x t74 t78 t7k1 t881 t97 t9d1 tcv1 tdd1 tdg1 tdm tft tg62 thk1 thp1 tm11 tq91 tqv tv02 tv3 tv9 txb 
+200 204 t0k t291 t4r t6r1 t74 t83 t991 tc2 tdz tgc tgn th82 thr tht tl72 tlj tm tn4 tn82 tq02 tqz tr02 ttw1 tw11 tx51 tz9 tzk1 
+521 522 t2t t321 t39 t47 t4x1 t6 t621 t6t t841 t961 tbw tdc1 tf52 tfb tfj tg31 tm51 tmf tpr1 tq81 trc1 tt11 tt72 ttc ttz tx52 tzn 
+105 108 t3m t41 t4d1 t4g1 t4x t6c t6n1 t74 t76 t7d1 t882 t922 tb7 tf12 tg6 tg62 thn tjg1 tjl tkb1 tl72 tnd tqb2 tt82 tt9 ttm twp1 
+20 26 t0c t0g1 t112 t2m t3g t3m1 t3q t5x t8q t9d1 t9x tcl tg82 tg92 tj21 tjc tjr1 tmr tqc trh1 tv1 tvc2 tvr tvs1 tvw txr tz91 
+813 814 t1w t3m t3n t452 t4v t65 t822 t8h tcv tcv1 tdd tf01 tg71 tgb2 tj91 tk82 tp21 tq91 tqc tqz1 tsx tt12 ttb2 tv tvv1 txt tz9 
+740 744 t011 t0r t141 t171 t1w t4x1 t8l t8l1 t991 tdb tdb2 tdc2 th31 thb thh1 tld1 tm42 tpg1 tpx1 tqm tqz1 tsv1 ttb1 tvs tw8 tx92 tz91 
+993 995 t13 t1q1 t291 t3w t512 t571 t5w1 t6m1 t8l1 t991 t9k tbd1 td tgp1 thh1 tjb1 tm9 tpn1 tqq tr1 ts5 tt tvb twj1 tww twx tz91 
+409 410 t0f1 t161 t19 t1l1 t242 t342 t3r1 t4t1 t532 t6x t711 t8b1 t8w tcx1 tfz1 tgz tkf tpb2 tph1 tq91 trx tsw tv1 tv92 twc tx71 
+401 402 t221 t321 t351 t361 t3q t3x t4d1 t4t1 t532 t672 t6r1 t9s1 td81 tdp tgm1 tgt1 th61 tlg1 tmg1 tqf tqq tr1 tr81 tv42 tvd tzm 
+49 51 t1j1 t4t1 t4x t512 t5w1 t6t t8h1 tb02 tbn td tgt1 tkc1 tkr1 tkv1 tn12 tpc ttb2 ttw1 tvc1 tvk tw52 tx6 txw tz02 tz8 tz91 
+846 847 t011 t161 t1n t412 t5f1 t6r1 t7n1 t8g t8t tb62 tbv1 tcf tf5 th8 thb1 tkl tpg1 tph tr02 tsv1 tvc1 tvh tvm1 tz22 tz5 tzr 
+543 544 t0b1 t212 t3m t5z t622 t6t t7b1 t81 t942 tbd1 tcv1 tdd1 tf61 tfb1 thp1 tjj1 tkv tm9 tnx1 ttp1 tv tw81 twd1 tww txg tz61 
+114 115 t1j1 t2h1 t361 t412 t4m1 t5b1 t7c2 t8g1 t8l1 tbk tbt td7 tdb2 tf01 tfj1 tgb2 thc1 thn tjx1 tq6 trx ttr tvh twd1 txm 
+27 30 t08 t1q t221 t361 t3r1 t692 t7j tbb1 tbs tc41 tf9 tgc thh1 thn tl51 tlg1 tn12 tnl1 tpb2 tpr1 tr21 tr82 tx1 tx71 tz3 
+615 617 t04 t0h1 t0j1 t141 t181 t2 t2t t58 t7p1 t81 t86 tbd td62 tfc2 tgt thv tjh tjt tlw1 tn71 tpc tpd ts92 ttk1 twp1 
+153 155 t1l1 t38 t3c1 t3p1 t462 t4x t7d t7q1 t881 t8g1 t9k tb7 tdg tht1 tj82 tk31 tp32 tpc1 tq12 tqh trl trr ttk1 tvs1 tz22 
+91 93 t0g t0s t221 t381 t3g t532 t58 t6r1 t7q1 t9h tbv tdn1 tf42 tff tgt1 thh1 tjt tlz1 tm7 tmq tnt tpc1 tqh tw11 tx52 
+481 482 t13 t161 t1w t242 t2m t2x1 t3p t4d2 t4l t561 t7k1 t7v t861 tb02 tdp1 tf02 tfr tkc1 tld1 tm62 tr5 tr51 tvn tw tx71 
+407 408 t0b t131 t2g t2t t38 t48 t4c2 t59 t6d2 t74 t762 tbz1 tf41 thb1 tk6 tlg1 tm12 tmj1 tn4 tn51 tt72 twn1 tww txc tz71 
+99 101 t13 t1s t221 t2m1 t3r1 t4x1 t55 t5w1 t711 t851 t982 tf42 tfn tgp1 tm52 tn2 tnj tnl tst tv9 twb2 twg tx01 tx12 tzq 
+259 262 t1v1 t39 t3c1 t6p t702 t7n1 t86 t861 t9d1 tc72 tdb2 tf21 tf71 tfq tgn thn thr tj82 tl72 tn4 tn71 tqv twz tz22 
+40 44 t0c t13 t1l1 t3m t412 t4r t4x t5l t6f1 t6h t7k1 tbv td32 tdn1 tfx tgp1 th3 tjb1 tlz1 tq52 tr51 tsf tv7 tx1 
+701 703 t0j t2 t2t t3q t462 t5f1 t5h1 t6z t832 t8l t9p t9z tcv1 tdb tjv tjw1 tmc tmg1 tn22 tpd tqf ts32 tw91 twb1 
+289 290 t0f1 t0q t222 t311 t462 t4r t511 t82 t881 t991 tcg tdr1 tg12 tjj tlm tm81 tn81 tp62 tpn1 ts21 tt61 ttg1 tts1 tzm1 
+147 150 t13 t1q t212 t242 t381 t59 t7n1 t871 t872 t9 t9d1 tb02 tg7 tg71 tk22 tkb1 tmv tpc tq01 tqz1 twg1 tz11 tz82 tzt1 
+452 454 t0r1 t131 t462 t6d2 t891 t961 tb62 tf01 thg1 thk1 tkr1 tlm1 tm9 tpb2 tpj tpp1 tq01 tqp1 tr02 tr5 ttb2 tvh tvs1 tz2 
+455 458 t011 t071 t1s t1t1 t1v1 t23 t5k t5v1 t861 t942 tb02 tc21 tc5 tds1 tgp1 tjb1 tm42 tn3 tq72 tr1 tsp tv1 tv2 tvg1 
+861 862 t001 t002 t1w t241 t3b1 t3g t3q t3r1 t3x1 t59 t6h tbc2 tbh1 tbv tbz1 tc21 th42 tl51 tm9 tmn tn91 tnc tth tzr 
+31 32 t0j t1c t291 t412 t4c2 t4g1 t4m1 t542 t5b t692 t6w t73 t7q tcc1 tg tkc1 tl42 tm7 tn12 tq01 tq4 tsb2 tt01 tvs1 
+15 18 t13 t271 t2w1 t332 t452 t572 t5r1 t6d1 t82 t9n1 tc5 tcb2 td7 td91 tdp1 tf7 tg7 tjq tl21 tlb1 tr82 tsv1 tz21 tzg1 
+10 12 t001 t0l1 t3b t3d1 t582 t692 t6t t711 t721 tb82 tcl tfj tft1 th8 thd tr02 ts1 ts3 tt51 ttb2 tv61 tv8 tw6 twc2 
+853 856 t0f1 t0z t1v1 t2 t4f t4t1 t7f1 t7w t852 tbv tf42 tfg tgf tjz1 tnf tp9 tr5 trq1 tt72 tv tvh tvr tvx1 tx71 
+6 8 t1 t14 t291 t3t t502 t561 t76 t911 t9c1 t9s tc61 tcd tdd1 tj62 tk6 tl51 tlb tlf tm9 tpz1 tr5 tr51 trx tz9 
+438 443 t042 t0l1 t1m1 t2n1 tb7 tcl tdg1 tdp1 tf71 tg01 tgk1 th31 thb1 tl01 tlg tnl tnq1 tq91 tr82 ts92 tt11 tt21 tv32 tw9 
+840 841 t0c2 t34 t361 t412 t4d1 t4x1 t6x t81 t972 tb1 tdb2 tdd1 tgp1 thl thn tl6 tlb1 tqs1 tsq ttb1 ttc1 tv62 tvm tzt1 
+459 461 t3r1 t4d2 t64 t66 t7m1 t9x1 tbb tbv tdg tf21 tfr1 tjp1 tl31 tlj tnm tp3 trs1 tsw ttb1 tts1 tw52 tzg tzk1 
+94 95 t0c t3c1 t4c2 t541 t5j t7r tb01 tbm thr tkc1 tl31 tl52 tl6 tn91 tqk1 tr02 trn tt72 ttm ttp1 tvc1 tzr1 tzw 
+368 371 t33 t481 t4d1 t4s t5p t6c t6w t7n1 t8n tcq tf21 tf71 th1 thc1 tj4 tj82 tlg1 tqh tr5 tsl ttw1 ttz tzx 
+386 388 t2m t511 t55 t5w t651 t6c t962 tc5 td62 tdm1 tg7 thc1 tjc tk6 tkc1 trr ts22 ts4 ts61 ttw1 twj txb tzg 
+134 137 t192 t1g t3q t4x1 t8h t8h1 t8l t8q1 t9k tc21 tct tdp1 tg71 thz tk41 tlg1 tlr1 tnf tpb2 ts61 tt9 tv02 tx41 
+832 833 t4t1 t4x1 t5r1 t6r1 t711 t7b2 t8t1 tb7 tbj tck1 tfb1 tfs1 tfx1 tgc1 tgt1 tlm tlm1 tm7 tmj1 tp72 tpr1 tqh txm 
+249 250 t091 t0w1 t4c2 t4r t5d t5f1 t76 t86 t9z1 th11 thw1 tjr1 tjx1 tqf1 ts2 ts51 ttc1 ttk ttv tvh tw71 tx01 txx1 
+686 689 t0c1 t1l1 t211 t392 t3c1 t3r t4n1 t53 t622 tfj1 tjc tm81 tmk1 tpc2 tq42 trr ts41 tsb1 tt82 tt92 tv7 tvh twd1 
+238 242 t2g t381 t3b t452 t5c2 t711 t802 t8w t911 tdp th42 ths1 tm7 tnh tq81 ts62 tsj1 tsr1 ttb1 ttd ttl tvf tw01 
+129 130 t11 t221 t2n t342 t391 t3p t4g t511 t55 t6l t89 t991 tdm1 tdn1 tmn ts71 tst1 tt82 tv9 twq1 txp tz82 tzt1 
+372 373 t0s t3k1 t3p1 t3r1 t4r t6n tbm tbr1 tcw1 tfc2 tgj th8 tkf tl9 tmz tpr1 tq01 trq1 tt6 ttt1 tv31 tx41 tz82 
+581 582 t0t1 t112 t3g t601 t88 t8c2 t8m t8t1 tbm tfb1 tfn1 thc1 tjr1 tk22 tkm1 tl42 tq21 tqv trv1 ttw1 ttz1 tv32 tvc2 
+800 801 t28 t481 t4t1 t691 t6d2 t7d t991 t9f tbk1 tcb2 td7 tfj thk tjx1 tkt1 tn3 tpd tq11 tvh twn1 twv1 txf1 tzk1 
+413 414 t09 t141 t161 t232 t2p t2x1 t591 t7v t8h1 tcl tgp1 thc tj41 tlm tms1 tpd tsw tv32 tvc1 tvr tws1 tz61 tzl 
+982 984 t1 t242 t3q t762 t9x tc22 td62 td71 tdb2 tg71 thk1 tk61 tld1 tm42 tpb2 tpd tpz1 tr21 trc1 tt9 twp tz61 tzg 
+620 622 t1 t34 t4t1 t5v1 t74 tbd1 tdd1 tf12 tgc th8 thk1 thv tk22 tlm tm42 tmf tpg1 tqq tr5 trg1 tsb2 ttb1 tx41 
+735 737 t1h t212 t2t t4d1 t4x t5v1 t622 t7k1 t911 tbz1 tc61 tjs1 tkw tn4 tn51 tpb2 tqh tsg tsq1 ttb2 tv02 twm tx01 
+297 304 t291 t34 t3p t4c2 t762 t82 tb4 tc61 td02 tdb2 tdf tg12 tl01 tl21 tn tn51 tnf tnw1 tq81 tsg1 tt82 ttw1 tz72 
+168 169 t082 t0c t0t1 t1s t431 t4g t951 td7 tdn1 tf9 tgb2 tgc thg1 thj1 tk51 tk9 tkr1 tm42 tq01 tr51 tv7 tv82 tzr 
+422 424 t0g1 t0l1 t1p1 t55 t691 t7q1 t9z1 tbp1 tbv1 td7 tgk1 tjb1 tjj1 tl72 tlh1 tm9 tqj tr72 ttx1 tw72 twz txc1 tz61 
+912 915 t161 t3r1 t76 t991 t9c1 tbv1 tc6 tdn tgb2 tgn thb1 thf1 tht1 tn31 tn51 tp61 tpb2 tqq tr6 trr tsq ttg twn1 
+382 383 t0h1 t1v1 t2 t3b1 t4r1 t5b t5w1 t672 t6r1 t762 t8l t9t tg71 thr tj82 tjq1 tnj tsl1 tt82 tvk1 tx41 txg 
+857 858 t78 t7v tbj tc2 tgk thz tj41 tjb1 tk82 tm52 tmf tn81 trk trq1 ts82 ttc1 ttw1 tv1 tv9 tvb tvc1 tzn 
+243 244 t2m1 t391 t3k t3x1 t452 t4b1 t5r1 t632 t6d2 tb51 tdn tf22 tf42 tft th1 thp1 tl9 tlb1 tmj1 tn12 txs1 tzc2 
+837 838 t14 t3c1 t3k t4t1 t5g1 t7n1 t8k t8p1 t951 t9t1 tb02 tc61 tc81 tfr1 tg72 tjc tr02 tt71 tv9 tw11 tx1 tz9 
+714 715 t1s t291 t3q1 t4t t4v1 t66 t662 t83 t921 t9k tdr tfk1 tg52 thc1 thx1 tk22 tmv1 tpc1 twk tww tx1 tzk1 
+958 960 t002 t0m1 t181 t391 t3m t462 t4x t6d t802 td7 tdh1 tf2 tfb1 thz tk22 tl41 tls trk ts tvb1 tzn1 tzt1 
+156 157 t051 t1j t311 t4c1 t5b2 t64 t692 t802 tg7 th11 th8 thq tkv1 tlz1 tm9 tpc1 tr02 tsd1 ttd txf1 tz5 tzk1 
+873 876 t1s t37 t3n1 t402 t4q1 t6c t711 t8x1 tcv1 tdr1 tfj tj3 tj5 tjb1 tk01 tn51 tnj tnn1 tp21 tqz tv1 tzw 
+879 881 t391 t7p1 t8t1 tb62 tc21 td22 tf91 tfh tfz1 tg51 tgc thr tk1 tm52 tmn tn51 tn81 tqv1 ts11 ts92 tsj1 tv1 
+474 475 t0c t311 t3q t3r1 t4c1 t4d2 t78 t881 t9d1 td62 tf01 thc1 tl51 tl7 tmj tp tv52 tvh tvk twd1 tx01 tzr 
+390 392 t41 t5g t7c2 t861 tch tgn tgt1 th thb1 tj82 tk52 tlm tm42 tn4 tp62 tqg1 tqh tql trx tvf twf tz01 
+929 930 t1x1 t2m1 t4d1 t6t1 t6x t7j1 t802 t81 t991 tb02 tb5 tcc tjj1 tjr1 tk22 tk31 tln1 tpn tqz1 tw11 tw62 tx1 
+720 721 t0g1 t19 t1l1 t4 t4p t4r t8s1 tbg td7 th52 thc thg1 tmf tp9 tt6 ttb1 tv9 tww tz tzb tzw 
+161 162 t002 t462 t4x t532 t74 t7p1 tcl td41 tdp1 tgj th11 tkm tmc2 tq1 tq3 tr82 tsp tt72 ttc tx71 txl 
+231 234 t031 t141 t191 t292 t462 t4x t532 t581 t5v1 t7d t861 t9c1 tc6 tdd1 tgb2 tqb2 tr1 tt4 tx01 tx9 tz22 
+494 495 t212 t232 t3p t462 t4g1 t7c2 t882 thb2 tl tl6 tn51 tq91 tqc tqw1 tr1 trk ttd tv32 tv81 twz tzg 
+816 817 t03 t0l1 t1g t33 t332 t351 t3k t432 t4d1 t4x1 t672 t711 t8h1 th11 tkc1 tmf tn12 tnl tr42 tvk txs 
+144 146 t061 t0b2 t0t1 t1x t512 t5d1 t711 t7d t8h t8l t9q1 tcv tfz1 tj91 tjt tlc1 tr2 ttb1 tv81 tvq1 twt1 
+765 769 t19 t1q t1w t232 t2m t38 t3p t4d1 t8b1 tc12 tdd1 tgb2 tjb1 tkj tq01 tq52 tq7 tr81 tr9 ttj txf1 
+808 810 t722 t7q1 t8m1 t9k tbg1 tc11 tc51 tdb2 tft1 tfz1 tg71 tgb2 thn tjs1 tkf tm7 tn3 trv tt12 tvh tzl 
+375 376 t0f1 t0m t2 t2t t33 t8t t9b tc21 tdl1 tfj tn31 tn51 tn72 tpb tqb2 tqf trp1 tsw ttc2 twz txf1 
+990 991 t011 t0s t5x1 t7p1 t7q1 t991 tc6 td5 tft1 tgx thg1 tk82 tmm1 tnf tp7 tpd tqp1 trx1 tt9 tts1 tzl 
+572 573 t0d1 t131 t34 t3m t471 t4q1 t6z t81 t9c tc72 td td41 tfl1 thz tj1 trg tsq tt tt82 tz21 tz4 
+343 344 t19 t212 t2x1 t361 t3q t4x t692 t6d2 t6w t77 t7q1 t7t1 tg7 tgc th8 tm92 tmf tqh tr4 trr tw51 
+956 957 t0h1 t221 t332 t391 t3g t4n1 t6h1 t7q1 td41 thg1 thp1 tjr1 tll1 tn3 tn71 tpg tqb2 tst tvk tw32 tz21 
+952 953 t0b1 t0l t4 t561 t6h t751 t8h t9c tb02 tc62 tdj tdn tl8 tlj1 trg1 ttc tv61 tvc2 twz tzk tzt1 
+609 612 t011 t0t1 t19 t2m t462 t4x1 t6c t7p t8t1 tf01 tg81 tgb2 thg1 tjx1 tl31 tmr1 ttk1 twv1 tz12 tz22 tzg 
+624 625 t28 t2m1 t381 t6v t8h1 t9c tbx1 tc61 td31 tf42 tfr1 tgg1 tjm1 tkc tpr1 tq02 trk tsq1 tt52 tt72 ttk1 
+660 661 t351 t3q t532 t5h t691 t9s tdg1 tfr1 tjj1 tl72 tmz1 tn4 tn71 tql1 ts91 tsb ttb1 tvb tvc1 tz62 tzg 
+118 119 t001 t1b2 t21 t2c1 t332 t39 t651 t721 t762 tb7 tcc tjb tlb tmz1 tnj tt21 tv1 tvf twg1 txc txf1 
+510 511 t181 t1v1 t4r1 t5v1 t7q1 t9p1 t9s1 t9z1 tc61 tcs td9 tfb2 th61 tj81 tm9 tnl tpn1 tt tvz1 tx3 tz9 
+894 897 t0w1 t511 t561 t6t tb02 td41 tf2 th1 tjc2 tjj1 tk6 tlg1 tn81 tnf tp62 tpb tpb2 tr2 tt32 ttt tz8 
+434 437 t0j1 t33 t332 t3t t4m1 t64 t7d1 t822 t8j td42 tdj tk22 tkx1 tl92 tq8 tr71 ttl1 tvx1 tzt1 tzw 
+183 185 t2t t33 t3g t4z t6v1 t762 t7c t7x1 t8h1 t8x1 t92 tbd tcw1 tdb2 tg7 tjj1 tlk tm42 tnl tq3 
+345 350 t01 t0l1 t2m t512 t8l1 t9v1 tb02 tbj tc91 thg tjr1 tkf tpb tpb1 tr1 tr51 trt tt4 tz22 tz62 
+668 670 t0j1 t19 t291 t79 t7n1 t9c1 tcc tf42 th61 th8 thb1 thc thc2 tlk tlr1 tn31 tpb tpb2 ts4 ttk1 
+562 563 t181 t272 t462 t692 t7j1 t82 t9m tck tj91 tjs tl6 tm7 tml1 tpc tqc2 tqp tr ttb2 tvc1 tzc 
+665 666 t032 t1 t4n t861 t8l tcc tdb2 tdd1 tf02 tf12 tg61 th2 tj8 tm01 tmx tp11 tqv tr2 trw txt1 
+583 585 t0k t3p t3t t411 t4r t532 t6n t711 t7v tbn1 tcc tm81 tmp tt42 ttd tv02 tv32 tvk tzg tzq 
+662 664 t332 t342 t561 t5v1 t6x t8h1 t8l1 tcv1 tcz1 td62 tdg tdp1 tf2 tg71 tk52 tm52 tr1 tr5 tts1 tvk 
+517 518 t0t1 t4k t4t1 t55 t6g1 t861 t8c2 tb21 tdn1 thp1 tk6 tl51 tlb2 tms1 tnf tnx1 tpw tr tt21 ttc 
+618 619 t002 t2d2 t2r1 t471 t511 t532 t622 t6z t701 t9j1 tj41 tl51 tld1 tlr1 tls1 tlz1 tn12 tr42 trh1 tvs1 
+256 257 t05 t361 t362 t3c t3m t3t t5r1 t672 thj tk31 tlq tpc1 tpc2 tqv tsq ttm1 tv1 tx1 tx4 tz02 
+285 288 t0c t0s t3r1 t612 t782 tb62 tbm tcb tf01 tg62 thr tjr tkc1 tnf tr61 tss1 tt21 tvc2 tvs1 twd1 
+651 653 t33 t49 t562 t6z t861 t8p t8q tc22 tcc2 tcf tg41 tgp1 tht1 tl32 tnv1 tpx tr42 trr tw3 tz82 
+490 492 t0c t211 t291 t38 t3w t64 t6w t74 tb32 tb5 tf01 thz1 tl51 tmj1 tmx1 tnl tpt tqb2 tz21 tzk1 
+263 264 t161 t4m1 t66 t9s1 tc21 tcl1 thb1 tm3 tm7 tnf tnp tqk tqz1 trp ts31 ts92 tv61 tv7 txj1 txq 
+138 143 t062 t3j1 t3x1 t622 t6z1 t7t t9k tbv1 tcl tdz1 th42 thc1 tkv1 tl31 tl42 tpg1 tqz1 trt twb1 tz9 
+71 72 t001 t002 t3t t531 t651 t6q t71 tbm tc4 tfr1 tg7 tgt1 th42 thk1 thn1 tnb2 tq8 tqx tt12 tx71 
+86 88 t0j1 t12 t212 t351 t3j t81 t932 t971 tdn tdw1 th42 tj4 tj41 tk22 tnp1 tp32 tpt1 tqq trj1 tv61 
+834 835 t0k1 t141 t351 t3c1 t3w t4n1 t9p1 tf12 tft tfz1 tgp1 thb1 tlb ttb2 tvg tvk tw11 tx41 tx82 txw1 
+932 934 t031 t0l1 t381 t412 t6c t74 t7d t93 td12 td71 td82 tf22 tfp1 th11 tp21 tpr1 tqc2 twn1 tz21 tzg 
+66 67 t141 t2l1 t2m1 t5r1 t661 t81 tdn1 tf6 thn tjf1 tk31 tkc1 tlb1 tn02 tnf tpb2 tsv tv32 tvs1 tz02 
+466 469 t0b1 t19 t2v t2x1 t561 t762 t7q1 t7w tcf tdg1 th8 thz tld1 tq01 tqb2 tqc trc1 tt4 tt6 
+705 709 t072 t621 t6d2 t6t t76 t861 td01 tf82 tgg1 thb1 tjs1 tk82 tkm1 tq91 tqx tsr1 tst tv02 twg1 
+226 227 t001 t221 t381 t3c t3w t412 t4x t672 t9j1 tbz1 tjl tk6 tlm tmj1 tn81 tqb2 trt1 tsc2 tx2 
+131 133 t332 t452 t6t t771 t88 tcl tdb2 tgz tjb1 tkf tkq tlz1 tn62 tpl1 tqf trt tsk1 tx82 tzr 
+770 773 t242 t3k t4c t63 t6t t881 t8l tdv thc tk42 tkt1 tl72 tpc1 tsn tvf tw21 tw8 tx71 tz91 
+353 355 t192 t2 t3k t5r t612 t6c t8b1 tb7 tbn1 tbz1 td tfq1 tlc1 tlm tm42 tqw tt22 tx12 tz61 
+553 558 t09 t102 t181 t2m1 t302 t52 t5f1 t8z tbv tgt1 thp1 tl6 tm1 tn12 tt82 tvc1 tx41 tx71 tzn 
+884 885 t1 t3g t49 t4m1 t63 t6t t76 t7g tbv1 tc02 tf12 tgp1 tjw1 tlv tm81 tsd1 tsp ttb1 ttw1 
+415 417 t13 t311 t3r1 t5f1 t7h t7w td82 tft thh1 tj4 tj82 tjt tlw tpn1 tq81 tsj1 tvp1 tz9 tzk1 
+123 124 t1 t212 t29 t342 t3p t5q t602 t6z tb02 tbg1 tdc1 tfx thc tjk1 tpf1 tr51 tvj1 tz61 tzm1 
+871 872 t011 t1l1 t46 t6r t7n1 tbm td7 tj8 tk31 tkc1 tlp1 tpr1 tqh1 trn ts91 tsp tt6 tw1 tz41 
+797 798 t011 t2q t3p1 t3r1 t4b1 t76 t771 t7q1 t921 t9f1 tdn1 tgx1 th62 tj tj32 tj82 tl11 tp4 tz02 
+947 949 t022 t2t t6c t921 t9q1 tbq1 tcn1 tdm1 tl72 tlm tn12 tp51 tpg1 tqb2 trt ts01 ttb1 ttm twg1 
+330 331 t091 t1b1 t242 t391 t3d1 t481 t7d t812 tbm th42 tjv1 tkr1 tks tl6 tmb2 trr tsv tv9 tw11 
+716 717 t072 t1g t3p t4r t4t1 t7q1 t991 tcw1 tdx th11 thz tjx1 tl6 tn4 tpc tq62 trv twc tx51 
+198 199 t141 t55 t63 t6z t7d1 t8b1 tb5 tfc2 th42 thh1 tlv1 tm81 tn41 tp21 tq81 tr52 tsr1 tts1 tx71 
+759 760 t3p1 t712 t81 t921 t9x1 tdv tgc th8 thp1 tj82 tkc1 tkf tkz tmf tnb1 tpn1 tsr tww twz 
+191 195 t002 t092 t0d2 t3g t5c t6h1 t7p1 t942 t9h tc81 tfc tgn th42 tl72 tl9 tp5 tr51 trn tzl 
+726 731 t38 t3p1 t5f1 t6d2 t8h t8n tcc td81 tfb th1 thc tj42 tk3 tnj tqb2 tr5 tvh twb2 tws1 
+163 165 t0l1 t2h t3h t4x1 t762 tc21 tlm tm5 tm52 tm61 tm7 tnj tp62 tq01 tr02 tr1 tv8 txb2 tz61 
+501 503 t0w1 t3t t882 t8h1 t8t1 t9n1 tc71 td41 td82 tkl tlc1 tn81 tq22 tq3 tqp1 tqr1 trn trw 
+512 513 t032 t2 t462 t511 t882 tbr tdm1 tfr1 thk1 thp1 tjc tkr1 tm9 tn12 tr42 ttd1 twd1 tzn 
+310 318 t1 t1g1 t1z t741 t7j1 t9j1 tft tft1 tls1 tm4 tmk tp5 tpr1 tqk1 tsz tt72 tx41 tx42 
+447 449 t382 t3p1 t452 t4d1 t5f1 t682 tbm tc61 td32 tdm1 tgd thd thw1 tl6 tmf1 tnk1 tr81 tvh1 
+80 82 t1q t3c1 t63 t762 t7d1 t8l1 t9k tcl tfb1 th6 tjl tn81 tqc tr12 twg1 tww tx01 tx51 
+273 280 t0f1 t0g1 t13 t141 t21 t3b1 t3q1 t6g1 t7p1 t8c2 td11 tft tj82 tm81 tnr1 ts3 tvc1 tw11 
+523 524 t2 t48 t4w t5c t5n1 t5p1 t811 t911 t9d1 tc5 tc61 tns tnx1 tqj1 trq1 tsp1 tt61 tzt 
+270 271 t4d1 t5v t5w1 t6m t74 t7b t911 tcd1 tfz1 tgt1 tl4 tl6 tld1 tnl1 tpb2 tqv ttf txq 
+637 643 t1s t1w t221 t2m t2t t2v t4x tbv th61 tm1 tnm tp52 tq51 tqv tsn1 ttw1 tz91 tzm1 
+977 979 t291 t421 t4x t5w1 t7d t8b1 t911 tbj td41 tfr1 th11 th41 thc tkr1 tn51 tph tq32 tz61 
+753 758 t13 t1p1 t371 t3c1 t3r1 t4h1 t7d t88 tb5 tbb1 td tj9 tt tt21 ttk1 tvl twz tz22 
+537 542 t2k t5v t5w1 t8h t9m1 tg3 thq tjb1 tlz1 tn3 tp71 tpr1 tq51 tql1 tqx1 trt1 tx22 tzk1 
+171 172 t6j1 t7d1 t7p t8l t8l1 t9j1 tb9 tbv1 td7 tdn1 tgj tgw1 tjl tkf tqs trz1 tvb txf1 
+751 752 t0t1 t0w1 t1g t1q t21 t2t1 t34 t512 t6x t861 tc3 tft1 tlm tm1 tnc tpd tq3 tqv1 
+545 547 t222 t2w t4d2 t4l1 t512 t541 t9t1 tbj tc21 tf7 tg2 thr tqv1 tr1 trm trz tvh tzl 
+365 366 t0j1 t181 t1w t351 t3g t481 t9t tbd1 tgj tgk th01 th41 tlk tm02 tpv1 tsk1 tt92 tz61 
+793 794 t5m1 t7d1 t7n1 tb41 tb7 td62 tfc2 tfj th51 tk6 tls1 tpp trk tt41 ttq1 ttx1 twg1 tx12 
+825 828 t011 t082 t0h1 t0m t4b t511 t622 tcq td td82 tfk1 tgb2 tgn tjb1 tk6 tmw1 tqb2 tt21 
+394 395 t0c t34 t692 t881 t99 td2 tf12 tfs tfw1 th42 thh1 thv tl6 tlw1 ttw1 ttz1 tv9 tz22 
+528 529 t291 t2s1 t81 t8h1 tcf tct th8 thc1 tjr1 tkf tn1 tnd1 tpb2 tsp tv tvb1 tvf tvr 
+236 237 t161 t452 t7q1 t82 t862 t8t1 t9x1 tfg1 tgn tr42 trb2 trc1 tsh tsw tv1 tvq1 tvs1 tz02 
+675 676 t1h1 t2t t6d2 t76 t8l tbl td td9 tdn tfm tgg th1 tk12 tpn1 tq81 trg tvr tzw 
+673 674 t0c t1s t2f t2v1 t4w t5 t9c1 t9d1 th1 tjg tl12 tlb2 tmp1 tn11 tt11 tt22 tts tz6 
+534 535 t121 t1b2 t3l t462 t81 t9c1 tb5 tfj thd1 tjx1 tlg1 tmj1 tmm1 tmw tn71 twz1 txh 
+919 920 t3b2 t3c2 t6w tc5 tcf tdg tgg tj41 tlw tm7 tnp1 tpv tr2 tsg ttt1 tw twg1 
+324 327 t001 t181 t1w t39 t4t1 t9k tb02 tcw1 tdd1 tdg tdm1 thv tq52 tr82 trm trr ttw1 
+579 580 t0t1 t462 t5v1 t8d1 tb61 tc6 tcx thb1 tlz1 tqq tqv tst ttb2 tvn1 tw32 tw81 tzk1 
+335 336 t181 t3q t491 t532 t642 t6z1 t9d tcl tdg1 thn tjt tkr1 tq5 tqj1 tv81 tv9 tzx 
+444 445 t6r1 t6z1 tbh1 tbw1 tc6 tc61 tft tm82 tmt tn tq52 tr22 trc1 tvc2 tvs1 tvv1 tzt1 
+52 53 t19 t25 t332 t3b1 t9s1 tbc1 tcc tcf tf71 th8 tjl tl6 tsg tv41 tv81 tx92 tzn 
+937 940 t1n t2g1 t3g t692 t882 td41 tdb2 tg71 tk11 tlg1 tnf tpr1 tq81 tr1 tv8 tx81 tz61 
+46 47 t091 t1s t29 t76 t8l t921 td tdn1 tfr1 tkt1 tq3 tqq tqz1 trx1 tvd1 tx41 tzn 
+866 868 t332 t34 t561 t81 tdm1 tdp1 tj1 tj82 tm7 tn3 tn41 tpn1 tpp tpp1 tqv tsb tv02 
+710 711 t001 t1w t2 t2n t3m t3w tcp1 td41 tfv1 tl61 tmj1 tn91 tqh1 trc1 tz91 tzs1 tzw 
+805 806 t002 t2q1 t33 t39 t3k t512 t6 t7n t9p1 tb02 td41 tdb2 tf3 tm42 tmj1 tn4 tzm1 
+697 698 t0j1 t381 t3p t4x1 t831 t882 t9d td82 tdk1 tdp1 tf01 thg1 thp1 tl3 tlm ttp tx1 
+464 465 t6h t791 t7j1 tb7 tc2 td51 tfj tgt1 tjl1 tk61 tn81 tnf tst1 tt tzl1 tzn tzw 
+985 988 t471 t6c t902 tc61 td td4 tdp tf02 tfc2 tkt1 tm62 tmj1 tn7 tnq ts22 tvl txf1 
+126 128 t032 t0c t0p1 t2c t3j1 t4d1 t711 t7j1 t8t1 td tdg tnb2 tnm1 tqb2 tr42 tr5 tz9 
+36 37 t242 t261 t271 t6z1 t86 tc2 tck tjj1 tlg1 tq32 tqz1 trq ts7 ttw1 tv61 tvh 
+973 974 t412 t471 t6x t6z t88 t8h1 tdp1 tgc thg1 tl3 tm9 tpb tpn1 tst ttr1 twn1 
+568 571 t031 t062 t131 t151 t2t t2x1 t3t1 t981 t9d1 thc1 tk61 tqv trq1 tvp1 tw11 tx51 
+525 527 t1 t1v t55 t6d2 t7l tc5 tgp1 tjj1 tlc ts92 tst ttb2 ttl tx51 txx1 tzd 
+774 781 t011 t3p t471 t7q t951 tbv1 tcl td82 tgb tgd1 tgn tlc2 tlq1 tw62 tzt1 tzw 
+902 903 t26 t2q t2x t34 t46 t4d tbq1 tcc td41 tj1 tlr1 tqx trt tst1 tx41 tzw 
+173 175 t142 t3w t5p1 t7d1 t7q1 t842 tcm th42 tkr1 tks1 tl6 tl9 tlv1 tnm tpc1 tvc2 
+762 763 t501 t6z1 t7n1 t7p1 t8j t9d1 td51 tf42 tfc tgm thc thg1 trv tt21 tvc2 tx2 
+188 190 t18 t19 t6r1 t74 t7q1 t81 t8h1 tct1 tdw thr tjx1 tl3 tp72 tq21 ts9 tsq 
+158 160 t1w t21 t8b t982 t9h tbm1 td41 tfr1 th02 tm6 tpg1 tq01 trs tt9 ttz1 txb 
+818 824 t3x1 t4q1 t5 t6z t762 t7g t7q1 t7w tn4 tn81 tnm tpc1 tq01 tq52 tr02 tv02 
+681 683 t0f1 t382 t3k t3p t4t1 t5r1 tbj tc21 tcc tch1 thg1 tk61 ts52 ttz1 tv61 twz 
+180 182 t2x1 t361 t3c1 t3k t881 t8l1 tb41 tbv1 tcj tgp1 thb1 tlz tms tsw twz1 tz9 
+891 892 t132 t1j t621 t6t t792 t8l tcn1 th72 tjj1 tjw1 tk22 tm42 tn12 trc2 trv tzn1 
+337 338 t0t1 t161 t471 t9b1 td7 tdd1 tdq1 tdv tjb1 tkf1 tnj tpc tqn1 tqs tsj tv22 
+266 269 t4d1 t4x t5s t8j t9z1 tb5 tl71 tpb2 tpn1 tpq tps tr22 tr42 trr tst tv32 
+59 61 t1q t2n1 t9c1 tb62 tc1 tfk tfz1 tgn thc1 tn4 tnj tqb1 tqb2 tvc tx4 tzk1 
+306 307 t181 t292 t3w t6z t76 t7q1 t8 t9p tc11 tgn1 tms tp9 tq02 tv7 tz42 tzc1 
+941 943 t0h1 t25 t38 t6g t7d1 t9c2 tc21 tfk tfr1 tfz1 tht1 tls trx tss1 tvl tzt1 
+321 322 t4s1 t4x1 tbc2 tc51 tgz1 tht1 tlh tr92 trt tsv1 tv8 tv9 twz tx21 tx32 txz 
+961 965 t181 t3m t622 t76 t86 t8l1 t9j1 tbc2 th01 tk22 tn3 tn4 tp31 tt8 tx71 txd1 
+428 432 t19 t2c1 t351 t3w t4f t801 t861 t8b1 tb5 td41 td62 tgt1 tk22 trn ttk1 
+426 427 t032 t442 t4m1 t55 t5g1 t75 tdp tdq1 tl8 tp01 tp21 tpm trl1 ttw1 twf1 
+476 478 t002 t012 t0f1 t0t1 t1n1 t762 t7b2 tdg tdn1 tfl tn4 tq92 tqb2 tvs1 txh1 
+403 405 t3g t412 t5w1 t991 tj8 tjj1 tlg tlg1 tlt1 tn3 tq71 tqb2 trv ttb2 tvk 
+564 566 t011 t031 t0f1 t332 t3g t501 t88 t9r tb5 tjb1 tk6 tlz1 tm3 tpd tw21 
+589 590 t2s1 t351 t4d2 t4r t94 tb7 tf2 tk31 tl31 tld1 tn51 tqq tr82 trb1 tw8 
+252 253 t0b t1p1 t412 t611 t711 t7b1 t8h t912 tfv tjt tkr1 tqs tt21 tw tz21 
+927 928 t1 t6z t802 t8b1 t8j t921 tb21 tf22 th91 tht1 tk22 tkq tmj1 tw4 tz02 
+0 2 t001 t17 t1l t201 t4q t652 t81 t8b1 tb6 td7 tg11 tg6 tjb1 tmz1 tw52 
+684 685 t151 t161 t252 t6h1 t86 t8t1 t9w1 td tgt1 tp41 tp82 tr82 tss1 tt41 tzq 
+695 696 t19 t1v1 t381 t412 t5v1 t7d1 t8b1 tb tc62 thh1 tjs1 tmj1 tnr tp82 tww 
+967 968 t171 t1v1 t3q t4c2 t561 t8t1 t901 tg7 th61 tjt tpb trk tww tx71 txb1 
+151 152 t302 t3w t602 t692 t7n1 t7s1 tc61 tdp1 tgj1 tjw1 tkc1 tm7 trk tv tx41 
+497 -1 t19 t2r t6z t9d1 tc2 tc21 tdz1 tgc tnm tqw1 tqz1 trq1 tt71 tzg 
+761 -1 t3m t3p1 tcl tds1 tfc2 tg5 tgc th61 tjr tmj1 tmv ttj txg tz02 
+771 -1 t0d1 t461 t4d2 t762 t9b2 tfd tks1 tn81 tq21 trk ttz1 tw11 tx01 tx31 
+76 79 t12 t2m1 t3g t462 t4x1 t86 t8c t912 tf12 tj6 tpd tqx trt tsq1 
+779 -1 t162 t1s t212 t512 tc42 td51 thd tk22 tpg1 tr1 tsr tt ttc1 twv1 
+64 65 t011 t0t1 t141 t351 t512 t561 tcl tf21 tht1 tp2 tr02 trv twj1 tzj 
+57 58 t0s t2t t6x1 t76 t84 tb11 tcl1 tm72 tq62 ts21 tsp1 tvn1 tw81 tx71 
+802 -1 t082 t0l1 t351 t471 t7b2 t7k1 tfc2 tfz1 tgc2 tgt1 tk31 tsg tz22 tzt1 
+116 117 t0c1 t1w t4x1 t711 t86 t931 tcw1 tdp tfj tg71 tmt1 tpb tr82 twg1 
+836 -1 t042 t242 t452 t4f1 t5j tcv1 tl01 tlm tmf tn51 tqd trm trr tz42 
+488 -1 t032 t141 t9g1 td21 tdg tf61 thp1 tlb1 tm5 tqk1 ts91 tsr1 tsw tt71 
+969 -1 t361 t471 t4t1 t622 t651 t6c t7h tf22 tf71 tgx1 th02 thn tpw tz91 
+962 -1 t34 t471 t481 t62 t672 tjt tls1 tq52 trt tt11 tt62 ttv1 tw31 tzt1 
+890 -1 t4r t4s1 t8l tbb2 tbh tk61 tmq1 tq31 tq91 tt7 tvc1 tvr txj1 tzp1 
+996 999 t031 t0w1 t1s t3j1 t4q t8b1 t9d tb5 thk tmn tpc tqx trg1 tv1 
+223 224 t361 t7v t8n1 t9l tbm tg71 ths tht1 tj41 tj9 tjb1 tjw1 tq01 ts22 
+550 -1 t0h t13 t2m t2m1 t34 t3c1 t3q tc21 tfc2 tg52 tn51 tn61 twb2 tzn 
+557 -1 t2s1 t4t1 t4w t5m1 tcc td41 tdb2 tgr1 thc1 tm02 tmd1 tmz tn7 tz21 
+567 -1 t1q1 t1s t6p1 t931 tf2 th61 tl6 ts4 tsk tsr1 tv1 tw tz9 tzt1 
+588 -1 t0k t452 t731 t7w t8l1 tb91 tfx1 th8 tm81 tpb tpn1 tr51 tt tvc1 
+638 -1 t5j t892 tb7 tds tf22 tlx1 tnf tp61 tpk tq81 tr02 tr1 tr5 tzb1 
+645 -1 t57 t64 t6h t7w tdv tdz1 tf72 tkt1 tm81 tr02 tt11 ttb tvr twp 
+246 248 t072 t181 t34 t471 t66 t7c1 t7c2 t882 t8l1 tf01 tkf1 tpc tr82 tzk1 
+384 385 t031 t2m t4x t572 t762 t9w tcl1 tcz1 tgb2 thh tmm1 tq01 tq81 tx71 
+96 97 t0n t371 t3k t45 t572 t7r1 tbn1 tdp1 tm9 tpn1 ttk1 ttw1 tvj tz02 
+214 215 t0f1 t41 t6v1 tfb1 thg1 tj82 tjb1 tk82 tmf tp6 tv8 twz tx72 tz42 
+723 -1 t001 t0x t1 t4n1 t622 t6r tc51 tgj tgt1 tn12 tnv tpb2 ttf tz82 
+725 -1 t0g1 t361 t7j t861 t921 tb tfj tg21 th1 th6 th8 tr32 tr5 tt3 
+728 -1 t2 t2x1 t3l t412 t5f1 t622 tdg tgp1 th11 tht1 tlh1 tn4 tq22 trm 
+732 -1 t002 t2 t361 t4p1 t5f1 t5v1 t7n1 t92 tkq tm71 tn81 tvq twp1 txr1 
+546 -1 t051 t332 t6f tdp tjm1 tm51 tmd1 tqr1 tqv tqz tt32 twg1 tww tz22 
+745 -1 t5p1 td51 tdd tdz tg62 thc thc2 tpc1 trk ttm tvb tvb1 tvk tz92 
+102 104 t0l1 t161 t3k t471 t4d2 t8t1 th42 thc tjb1 tqk1 tqp tr91 tss1 tt91 
+286 -1 t2x1 t8w tcv1 td62 th11 tk6 tl72 tlb1 tm9 trt tsj1 ttr ttw1 tx1 
+125 -1 t2m t2m1 t692 t7n1 t8p tc52 tdq1 tfz1 th42 tq91 trt tx tx7 tx71 
+484 487 t272 t471 t4z1 t7v td41 tft1 tg71 tj41 tn51 tn81 tpg1 tsg tvh tvr 
+113 -1 t691 t8h t8n t9d1 t9j1 tb62 tc61 tl tl6 tld tq81 tsq tsv1 ttd 
+241 -1 t19 t1j1 t6z1 t9c1 tb02 tbn1 tfd1 tfz1 tj31 tm02 tp31 tq92 trr tv32 
+416 -1 t171 t2x1 t511 t591 t6z t7d1 t861 tc42 tf42 tjc1 tmp tsx tx11 tz61 
+260 -1 t0j1 t33 t8 t86 t8l tgn tj2 tjb1 tld1 tnf tp62 tqx txg tzn1 
+109 -1 t0h1 t242 t2s t3m t881 tf2 tfk1 tl2 tpn1 tpr1 tq91 tw81 twb tzn 
+910 911 t032 t1x t412 t751 t86 tfc2 tg71 tj11 tkj1 tr42 tv9 twn tz82 tz91 
+22 -1 t402 t471 tb02 tb4 tdn1 th61 thr1 tnh1 tp82 tq3 tr42 tsq1 tv71 tz02 
+154 -1 t34 t3h t4q1 t912 tcn thk1 tj91 tjr1 tn22 tpn1 tqf ttm txz tzz 
+28 -1 t4v1 t5w1 t6c t6r tbn1 tdp tf2 tk31 tkg1 tm9 tr02 trn tx2 tzg 
+294 -1 t4t1 t55 t6c2 t6w tdh tf91 tj12 tjs1 tk71 tnz tpf tsc2 twr1 txf1 
+657 659 t0f1 t1g t512 t5v1 tbv tc82 tf21 tj72 tjr1 tkr1 tls1 tn81 tr1 txq1 
+83 -1 t032 t191 t5f1 tcl tgn tgr tjr1 tjw1 tlr1 tls1 tmn1 tq3 trh tsm 
+78 -1 t1z1 t2z t4r t8w tf21 th11 th82 tj41 tlb1 tmc tmj tpb tr41 tsl 
+314 -1 t011 t2m1 t7p1 tb32 th1 tjl tm tn42 tr2 ttb2 tv81 tvk tx62 tz91 
+595 598 t081 t221 t692 t7g1 tb32 tkf tm1 tmd tqq twz tx41 tz42 tzt1 tzw 
+607 608 t0w t181 t1m t342 tfr1 tg4 tg72 tjc tsb2 tts1 tvk tx41 tz22 tzf 
+628 630 t351 t3q t3w t4r t831 t8l t991 tb11 tb5 tg7 tj91 trc1 tv7 tz5 
+219 -1 t0b1 t0f1 t0j1 t252 t4h1 tbm tc6 tck thh1 tnl1 trv tt21 tvb tw51 
+197 -1 t3m t5f1 t5j1 t72 t8l1 tbm tcv1 th1 th81 thn tj3 tqt tv32 tzb 
+196 -1 t1l1 t3w t6z tc61 tf71 tfz1 tj41 tjf tk92 tsw tt11 tv8 tvk txn 
+179 -1 t002 t9k tjs1 tjx tl72 tlm tm7 tms tpq tq81 tr51 tvv1 tx41 tzp1 
+882 883 t161 t3k t6x t8d1 tbl1 tc8 tdj1 tf2 tgb2 th11 thq tr02 ttz1 tx41 
+472 -1 t0j1 t232 t2g1 t2m t361 t9x1 tbc1 tj41 tk7 tmt1 tnp1 tr32 tsp tv91 
+788 789 t011 t13 t1s t242 t2b t3q t7f1 t7k1 thg1 tj8 tld1 tlf1 ttb tx 
+127 -1 t0b t0g1 t2m1 t3g tc92 tg tgj thh1 tjj1 tm1 tm9 tvq1 tw52 tzb 
+217 -1 t13 t1l t2m1 t47 t5f1 td92 tdn1 tm1 tp91 tqf tqz1 tr42 tsb tt31 
+631 632 t0l1 t0w1 t141 t161 t1k1 t3x1 tbv thr tn5 tq91 tqb2 tr82 tw81 
+916 918 t242 t6x t7j tdg tdp tgn thc thh1 tk22 tl3 tq21 trz1 tzw 
+149 -1 t0z t651 t6l1 tbd1 tdv tfz1 tjw tmr1 tn4 tqz tv9 tvr tz22 
+633 634 t22 t772 t9s1 tb1 tdh1 tk32 tkr1 tmf tn3 tn71 tz9 tz91 tzk1 
+606 -1 t0g t0s t622 t6z t8b2 tb3 tb62 tgj1 thp1 tm7 tnq1 ts5 tt6 
+181 -1 t261 t31 tbf1 tdn1 tdp tkr1 tmn tnn1 tnw trm ttb1 tz02 tz22 
+187 -1 t13 t3q t481 t6t t7s1 tbj tgb tl31 tq92 trd trh1 twn1 tzw 
+635 636 t13 t5v1 t762 tb5 tbm1 tgb2 tml tnf tqk tv1 tvc1 tw22 tz91 
+623 -1 t021 t38 t412 t452 t4k1 t5b1 tc thg1 tj02 tkl1 tqc1 tw11 txf1 
+87 -1 t21 t38 t3p t6d2 t9d1 tdg1 tg71 tht1 tj41 tlr tm1 tqb tx52 
+320 -1 t0t1 t161 t19 t3k tb1 tbc1 tdg1 th62 tlr1 tn01 tn6 tss1 tx71 
+775 -1 t4d1 t621 t6r1 tb2 th61 tj61 tnf tpq1 tq3 trj ts62 tsq1 tt9 
+301 -1 t042 t141 t3t t971 tcw1 tdg tl31 tms tss1 ttb2 ttc2 tx02 txl1 
+300 -1 t311 t471 t692 t6m tc51 tcf td41 thc thr tkf tnt tsh1 tst 
+287 -1 t0s t4x tb62 tgj tj82 tm42 tmn tsv1 ttn tvm1 twm1 tws tz21 
+201 -1 t0c2 t0f1 t1w1 t422 t8x t9c tcp td91 th8 tpc tqc ts81 tt82 
+145 -1 t3c1 t5p1 t5w1 t86 t991 tf12 tg11 tjb1 tr51 tt5 tw11 txm1 txz 
+654 -1 t1d t242 t3m t5w1 tbm tdb2 tdl tkb tkj1 tm81 tp52 trt tw62 
+277 -1 t3f1 t3g1 t452 t63 t7h t851 t8h1 tdg tf42 th11 thq1 tm2 tmf 
+275 -1 t242 t3m t882 t9d1 tht1 tjj tjr1 tjs1 tjt tn9 tqq tvr tzg 
+706 -1 t181 t312 t452 t622 t7f t8w1 tk82 tn51 tpx1 tr02 tr1 trx twk1 
+218 221 t38 t471 t532 t78 t791 tbn1 tg62 tjs1 tm02 tr82 tvd twv tz21 
+211 -1 t3p t3w1 t5r1 t6d2 tb5 tkd1 tm42 tnl tp3 tqq tsv1 twl1 tz22 
+739 -1 t1v1 t452 t4b1 t7v1 tc2 tfp tlw tpg1 tsg tsj1 ttw1 twc2 tzj1 
+254 -1 t2 t31 t3w t63 t6z1 tbf1 th11 tkf tl62 tm4 tqq tqz1 tt11 
+247 -1 t192 t2p t331 t5w1 t66 t711 t7d1 t9s1 tf71 tm1 tmd tsw tw11 
+746 -1 t21 t342 t3k t85 tb7 tbv1 tf01 tf7 tfr1 thz tm22 tpb2 tt6 
+216 -1 t0t1 t1w t762 t7c2 td41 tg7 tjx1 tn4 tr1 ttm tv7 tw51 tzv1 
+950 -1 t1b t38 t4v1 t55 t5j1 t5v1 t631 t74 t9x1 tc72 tdn1 tv52 tx61 
+359 363 t342 t3r1 t42 t452 t4x tgz thl1 thv tp21 tq91 tqv1 tqz trt 
+555 -1 t0p t0t t7p1 tb7 tbw1 tf42 thr1 tjt1 tk61 tpq1 tr42 ttl1 tw81 
+381 -1 t2x1 t38 t54 t561 t8x1 tcl tf9 tgv tk61 tss tv8 twf tz42 
+387 -1 t291 t441 t482 t9q1 tdz1 tf42 th42 tj51 tl3 tlb2 tqp1 trt tt4 
+19 -1 t1c t4w t7z1 tc01 td7 tdg1 thb1 thn tk6 tnb2 tqb1 tt tv1 
+13 -1 t0n1 t4t t5k1 t622 t86 tb62 tg62 th61 tm7 tnf1 tsr1 tt11 ttx 
+404 -1 t1 t8w tc11 tc51 tdp tgc th71 tll1 tn51 tnc1 tqz tvs1 txk 
+994 -1 t1b t1d2 t2c t372 t3q t5p1 tdg tdp thh1 tl51 tvb2 tw6 tz21 
+964 -1 t481 t4n1 t7d1 t8j t8w t8x tgh1 tj41 tlm tr82 trk ts51 tzn 
+954 -1 t291 t3b1 t4x1 t7p1 tcg1 tg42 tjj1 tm31 tnr trw trz1 ttg tx91 
+329 -1 t1j1 t2 t252 t82 t9w1 tc51 tdn tfj thf1 tjr1 tkb2 tv32 tx4 
+508 -1 t1z1 t33 t4d2 t4w t542 t852 th61 thv1 tm42 tqk1 tsv tww tzk1 
+942 -1 t2 t2x1 t6k t95 tb12 tb41 td21 tjd tk61 tls1 tn82 tnl tpz 
+939 -1 t33 t3b1 t5f1 t621 t662 t771 t7g1 tdf1 tj tr02 tsq ttb2 tvc1 
+867 -1 t041 t0l1 t221 t4g1 t67 t8l1 t8n t9s1 tdg1 tld1 tlz1 tpg1 tz81 
+924 -1 t0c t361 t39 tb5 tcb1 tdc2 tlj tp41 trv tsw tt11 tt21 txg 
+877 -1 t001 t0g t26 t8l tdk1 tfg1 tld1 tn81 tnc2 tqp1 tt72 tx51 txj 
+913 -1 t161 t3k tb02 tb7 tgq1 tn61 tnc2 tpc2 tqs tr1 ts02 tww txv1 
+468 -1 t1w t4n1 t5q t9j1 tbb1 tc6 td41 tk62 tn3 tpc tpg1 ttx tw 
+889 -1 t0c t2t t5v1 tbm tdd1 tdn1 th2 tk82 tkx1 tm9 tnf tqc tsw 
+480 -1 t76 t791 t7l1 t871 tc3 td51 tf2 tkx tpr1 tqc trt tvb txx 
+54 55 t0j1 t181 t7p1 tb92 td tf01 tjs1 tjt tpg1 tpr1 tq11 tvp tzt1 
+577 578 t0f1 t2m t66 t711 tbv tc2 td61 tdt1 tf2 tr2 tr62 ts01 tt82 
+50 -1 t31 t3g t4b2 t682 t6r1 tbd1 tgn tl2 tpc1 tr1 tr11 trr txf1 
+38 -1 t2t t3c1 t7w tb5 tdb2 tdp1 tdr tf32 thp1 tjs1 tnl tsg tv9 
+799 -1 t14 t4c2 t4m1 t4w t511 t6j1 t751 tc6 tcc tld1 ts31 tvx1 tz91 
+561 -1 t21 t262 t3q1 t4q1 t881 t882 tbp tcc tcr1 tf42 thn tht1 tmm 
+367 -1 t2m1 t6c t861 t8j t93 tb01 tdp1 tnj tpn1 tr1 tsm tx5 tzr 
+559 -1 t002 t6h t9q1 td32 tf01 thn tk22 tkf tkp1 tr5 trr tsb1 tv61 
+576 -1 t0m1 t1w t341 t8b1 tcn1 tdv th8 thg1 tp8 tqz1 tsh1 tw52 tz01 
+599 600 t2b t412 tjr1 tn61 tqt1 tr5 trk tt11 ttr tv32 tvb tw tz52 
+601 603 t002 t7j1 tbv tc5 tc61 tdz1 tgn tms tqh1 tqq tqr1 tt txg1 
+880 -1 t2m1 t2t t3w t4z1 t592 t6h td01 th61 tj41 tjr1 tpb txw 
+923 -1 t462 tb52 tc11 tf22 tl72 tp22 tqc tsw tv tz21 tzg tzn 
+899 -1 t2m t3p t4r t7c2 tbm tgp1 tkr1 ttg tts1 tvh tvr tzg 
+148 -1 t0f1 t1v1 t882 t9n tbj td51 tjb2 tl72 tn12 tq3 trx ttj1 
+792 -1 t202 t6c tb8 td tgn1 th42 tlz1 tpp tpr ttc1 tvf tx72 
+139 -1 t4w t6z t991 tfc2 tht1 tk9 tl tq41 tv21 tzf1 tzn tzt1 
+887 -1 t1r1 t3m t43 t8l1 t8t1 t941 tf01 tlf1 tmt tr5 tt21 tt82 
+68 69 t291 t65 t9j tdg tk tkh tkr1 tlz1 tnl trm1 ttt ttw1 
+864 -1 t311 t3g1 t3t t881 td92 tgc tjs1 tms1 tnb tp21 tpg1 tqx1 
+81 -1 t532 tb22 tc51 th1 th8 tn12 tpd tqb2 tqf tsw1 tx71 tzz1 
+855 -1 t0t1 t1v1 t4z1 t5w1 tcj1 th42 tjw1 tk61 tqw1 tw tz21 tzk1 
+729 -1 t031 t032 t0g1 t242 t2c2 t8z1 tb7 tdp th7 tnq1 tpb tpb2 
+963 -1 t162 t412 t601 t6r1 t9c1 t9r1 tbj tjp tk91 tt ttc tx41 
+89 -1 t0c t7v t8f1 t9k tb5 td52 thr tjn1 tq91 tr42 tsh1 tv11 
+768 -1 t152 t4x t5f1 t5p1 t6d2 t991 t9k thm1 tjb1 tmj1 tsc tzb2 
+103 -1 t55 tcv1 td62 tj8 tkt1 tl72 tmc1 tq52 ttb1 tvt1 txf1 tzs 
+757 -1 t161 t2n t512 t6l t7g th32 tj8 tm91 trk ttd tvb1 twz 
+34 -1 t351 t6t t7q1 t882 t9d1 t9s1 tbv tnr tr2 tv32 tvc2 tz91 
+980 981 t2x1 t412 t651 t6w t8l1 tcj tf th91 tmf tqb tv32 twf 
+756 -1 t2d2 t33 t7c2 t7j1 tc5 th8 tj91 tk51 tmf tns ttb1 tts1 
+90 -1 t1v t351 t5v1 t691 td82 th1 tjr1 tm1 tqv1 trn ts02 ttb2 
+23 -1 t0d2 t1c t1s t402 t74 t952 tf2 tg22 tk22 tt11 ttm tzt1 
+755 -1 t4r t5f1 t6f1 t6r1 t781 t7d tbj1 tdg1 tp62 tt72 ttz1 tvs1 
+803 -1 t302 t4d2 t4x1 t711 tb02 tg62 th42 thb1 tj82 tjn1 tqc tqv 
+777 -1 t27 t58 t5p1 t9g1 tbj tjl tl72 tlm tq21 ttd tv02 tvr 
+11 -1 t0t1 t4q1 t7n1 t991 th61 tkc2 tkn tnl tp72 tt ttx1 twn1 
+904 909 t1s t332 t352 t4g1 t7h1 tbd1 tff1 tfr1 tj12 tq62 tqz1 ttb 
+830 -1 t011 t0r t1j1 t78 tlr1 tsv1 ttt tw tw11 tww tx6 tz9 
+972 -1 t1j1 t4f1 t6m1 tcm1 td7 tfd1 thx tjj1 tjr1 tjt tv5 tzn 
+5 -1 t071 t332 t3b1 t51 t771 t7d1 t822 t882 tbn1 tfg1 tn3 ttc1 
+92 -1 t0f1 t4c2 t4d1 t691 t86 t9k t9s1 tl9 tqx tvl1 tvs1 tz12 
+4 -1 t2m1 t4t1 t6r1 t892 t9q1 tld1 tpb trn tsj1 tt tv81 tz41 
+411 -1 t162 t572 t5s t802 t88 t882 tjh tl72 tm21 tn81 tpn1 twj1 
+629 -1 t152 t1j1 t391 t3m t432 t512 t6t t8s tpb tt21 ttc tw81 
+616 -1 t4n1 t5p t6r1 t7d t952 t9c tk6 tr42 ts92 ttb2 tw12 twt 
+313 -1 t0r1 t2m t321 t351 t361 t391 t4g1 t532 tbm td32 tf21 tz21 
+291 295 t21 t572 t582 t9j1 tbz1 tdd1 tdn tdn1 tnj tqp1 ts42 tt11 
+348 -1 t0j1 t1d1 t3z t7d t9h tbj tdc tg71 tmn tqc tqp1 tv9 
+349 -1 t1g t3c1 t3v1 t452 th4 tk81 tq7 trt tv tvr twn1 tzm 
+360 -1 t001 t322 t501 t572 t63 t7c2 t9c td thv1 tk2 tl2 tnf 
+364 -1 t1r t221 t4d2 t5q1 tc21 tnj tq81 tqb2 tqf tr51 tvf1 tz21 
+548 552 t07 t28 t301 t511 t86 tcs1 tdn tgw tjs1 tjt tq52 tt82 
+166 -1 t002 t052 t0j1 t2x1 t39 t3t t8c1 t8j tb12 td72 tk31 tkr1 
+551 -1 t0j1 t8h1 tfq1 thp1 tnj1 tnl tnr1 tqc tqv1 tvc1 tvk tzm1 
+541 -1 t1r t672 t6h t6j t8b tg3 tjl tk61 tms tnl tnv1 trf 
+539 -1 t291 t33 t4d2 t4t1 t91 tb7 tb8 tbx1 tc51 tm91 tp5 tpr1 
+370 -1 t291 t74 t992 tb02 tgc tgl1 tgt1 tlz1 tm51 ttm tvs1 txn1 
+496 498 t511 t7k1 t881 t9w tc61 tdp tgn tj8 tlh tm81 tq52 tz9 
+423 -1 t33 t4r t7j1 t851 t882 t991 tb7 tdb2 th1 thp1 tl9 tmf 
+429 -1 t011 t0b1 t13 t1p t8f t8t tbq tg52 tkg1 tvb1 twg1 tz4 
+433 -1 t0n1 t0p t141 t512 t621 t882 t921 tc41 tdp tj7 tq31 tz91 
+450 -1 t062 t0x1 t181 t3q1 t532 tf22 thh1 thz tmn tn12 tpd tzk1 
+509 -1 t1 t471 t8t1 tc21 tcc td02 tdb2 th11 thn tm02 trj tzx 
+451 -1 t4d2 t8l t991 tcw1 tf2 tg62 tgl thc tpc1 tpg1 tvz1 txp 
+504 -1 t002 t0n1 t2 t282 t2x1 t711 tfb tfj tt42 twv twz tz02 
+457 -1 t131 t1r t821 tj82 tjt tk72 tm52 tpn1 tqv ttk1 tv32 tz02 
+467 -1 t001 t3r1 tcr tdz1 tht1 tn71 tnl tt9 ttc1 ttf1 tvz1 tx41 
+485 -1 t2f1 t2m t6k tbs1 tcv1 tg62 th61 thb1 tkf tq82 tvb twz1 
+479 -1 t3j1 t3v1 t5 t512 t6r1 tcl tfc2 tkb2 tp7 trr tv61 tx91 
+302 -1 t0j1 t131 t232 t2p t641 t6r tbn1 td1 tdp1 thn tkf tnj 
+281 -1 t181 t532 t5p1 t5v1 t651 t9n tdg1 tgp1 tq7 tq91 tt21 tzr 
+648 -1 t011 t1 t481 t6r1 t8h t911 tbh td tdp1 th11 tkp tq52 
+704 -1 t482 t711 t9t1 tff1 tjr1 tll tm9 tq21 tr51 tx3 tzf tzl 
+206 207 t1q t5g1 t802 t9h1 tbj tcl tcn1 tfj tm7 tnm twd1 tzg 
+296 -1 t3j1 t7z t8c1 tfr1 tg42 tgb2 thr tkb2 tkr1 tlz1 tn71 tw41 
+677 -1 t0l1 t81 t8j t9q1 tb81 tc61 tfz1 tnl tp42 tpm1 tqf ttb1 
+679 -1 t242 t351 t5n t802 t8r tbz1 tj82 tl9 tnx tpj1 tt82 ttl 
+644 -1 t221 t6f t762 t9z1 tbv tcc tf01 thp1 tsc1 tvs1 tx7 tz21 
+228 -1 t001 t181 t2x1 tdg1 tfc1 tfz1 tg71 th21 tkj tnl tzk1 tzx1 
+782 783 t0m t881 t8w1 tcn1 tft1 tjm1 tjx1 tms txc2 tz31 tz62 
+507 -1 t2d1 t4x1 tbn1 tcn1 td32 tgx tph trk tt4 tz22 tzg 
+951 -1 t1c1 t2m1 t561 t6d2 t6t t7n1 t8h1 tm02 tp6 tqc trt 
+688 -1 t131 t33 t3p t3q1 t3x1 t9k tc8 tc9 tk22 tt9 tvs1 
+860 -1 t13 t332 t491 t561 tdv1 tjj1 tjw1 tn3 tqj1 ts92 tsm 
+398 399 t0j1 t2x1 t4d2 t861 t8t1 td62 tdt thp1 tr1 tz4 tz9 
+456 -1 t4q1 t5h1 t5r1 t6w t8v1 tg7 tk31 tm9 tn71 tqz txd1 
+736 -1 t141 t2t t3q1 tdg tdn1 tj tk1 tlk1 tnl tqq tt21 
+167 -1 t431 t6d t792 tcc tdk tld1 tmh tmr1 tsb1 tt tt2 
+898 901 t4r t55 t5k t6s t6w t74 t9h tjd1 tq81 tz02 tzl 
+208 -1 t2d t431 t6z1 t7w tdx1 tdz1 tgb2 thp1 trc trl1 tvh 
+936 -1 t13 t1w tb02 tcv1 tkc1 tnh tqc tv1 tvc1 twk tww1 
+926 -1 t002 t1f1 t2k1 t2t t391 t86 tf11 tgr thc1 tk6 ttg1 
+500 -1 t0h1 t232 tc8 tk6 tmb tr2 tsj1 tt11 tt21 tvb1 txf1 
+499 -1 t001 t2m t3w t4n1 t4x1 t5d2 t5p1 tf8 tjs1 tn12 tz32 
+462 -1 t0b1 t1n t532 t762 td92 tdm1 tl1 tsq tvk tx41 tx71 
+463 -1 t3x1 tc6 tc61 tjt tkx tpd tq3 tqh tqv tsr1 tt82 
+418 419 t2p1 t3p t3s t4 t492 t78 t801 tcf tjt tmw tvd1 
+202 -1 t3l t412 t881 tbd1 tkf1 tpc tt8 tv32 tvc1 tw tz82 
+907 -1 t3x1 t55 t921 tbz tf2 tfj tfp tgb1 tgj thp1 tvs1 
+712 -1 t19 t1j1 t511 t622 t74 t84 th92 tl31 tm42 tnj tx41 
+905 -1 t251 t6b t6d2 tjc tl72 tlz tm7 tpd tqq tr01 tsr1 
+900 -1 t5r1 t7k t852 tdp tjt tkj tks1 tsp tvx tw61 tw91 
+896 -1 t3v t4g td7 tdg tn51 tpr1 tpx tqc tr02 tr5 tv1 
+305 -1 t211 t7v tb12 tdb2 tf12 th9 tk91 tn4 tsq1 tsw tzj 
+35 -1 t0b1 t34 t35 t3b1 t3k t6r1 td3 tm02 tm81 tvr tvv 
+627 -1 t0s t32 t332 t6r t8n tn12 tpb2 tt02 tv32 tvs1 tz61 
+84 85 t232 t44 t691 tdg tfr1 tm81 tpb tqv1 tt4 ttf1 txv 
+614 -1 t2m1 t621 t6r tb51 tbz1 tdd1 tkj1 tqc2 trq1 ts6 twg1 
+613 -1 t1f t1g t7r1 t82 t9k tg8 tn4 tq21 tt tz9 tzp 
+641 -1 t35 t561 t5k t9q1 tdv tfc2 tkq1 tmc tp41 tpg1 tww 
+70 -1 t19 t34 t4q1 t5r1 t882 tg71 tgj tjs1 tkk1 tpc tvk 
+945 946 t141 t1w t242 t2j t3r1 t55 t6t td62 thr thv tkp 
+594 -1 t0l1 t19 t1j1 t3j1 t802 t93 tj41 tkn tw52 twg1 tz9 
+586 587 t2b2 t5c2 t5v1 t9j1 tdp1 thn tjs1 tm52 tvc2 tvr1 tzg 
+98 -1 t09 t1s t491 t8t1 tc2 th5 tkt1 trb trk tvk tz21 
+292 -1 t202 t3x1 t81 t882 t911 tcv1 tkn1 tkp tp1 tpt tt21 
+48 -1 t3c1 t78 tb9 td7 tk22 tlm tmd tpg1 tr82 tt9 twz 
+106 -1 t56 t5v1 t672 t9z1 tbd1 tf01 th22 th52 thz tk6 trk 
+530 -1 t0h1 t1v1 t66 t692 t6s1 tlf1 tn51 trn tt1 tz61 tzm1 
+549 -1 t1c2 t242 t992 td4 tds tkg tm42 tm81 tq ttc txg 
+265 -1 t34 t351 t4c2 t5w1 tgj1 tgq th52 tl6 tld1 ttn1 tvk 
+21 -1 t0v1 t16 t332 t4j1 t561 t742 tfl1 tgb1 tgw1 tlz1 tv9 
+389 -1 t1g t1s1 t3r1 t5g t832 td32 tfc1 tl3 tmf tqs tt51 
+986 -1 t2k t3q1 t69 t692 t7p1 tbx1 td tdd1 tgn tq9 tzs1 
+699 700 t36 t7d1 t832 tbf td41 tdz1 th82 tq91 ttb2 ttp tzn 
+532 -1 t001 t0x t3k t3w t651 t8l tfz tjn tnz1 tw81 tz22 
+992 -1 tfc2 thc tk82 tp41 tpb2 tpc tpr1 tqp1 tqs tqv1 tt01 
+9 -1 t391 t3x t471 t762 tcc td42 tj82 tqg tr42 ts12 tzw 
+998 -1 t24 t311 t3p1 t42 t6c tdk tfc2 tjj1 tpl tvc1 
+749 750 t361 t472 t511 t5f1 tgj tjt tk8 tsp tz02 tz61 
+987 -1 t102 t4n t8t1 tcv1 tgn thr tht1 tj5 tr02 twl 
+3 -1 t0c t21 t351 t8b1 tg02 tl3 tms tqp1 tqz1 twd1 
+944 -1 t952 tcq1 tcw1 tfw thr1 tk92 tls1 tmj1 trm tz21 
+921 -1 t1w t212 t351 t7n1 td31 th61 tjj1 tkf tpn1 tr02 
+970 -1 t3j1 t7x tdd1 tj92 tjr1 tms tp41 tqz trz tx71 
+189 -1 t1 t6c t6z td82 tdg1 tkf tmz tpc tpc1 tpd 
+845 -1 t1j1 t38 t412 t64 t69 tb42 tf71 tnj tp2 twz 
+844 -1 t031 t161 t4r1 t5l1 t5v t651 tc82 tkc1 tm7 txk1 
+393 -1 t2x1 t3g t9d1 td41 thc tl4 tlz1 tpb tq52 trt 
+533 -1 t2v1 t622 t7n1 t8d tbm tdp tht1 trd1 tx01 tzg 
+111 -1 t2m t3p t991 t9w1 tcl tg7 tl9 tqc tqk1 txz1 
+120 -1 t38 t3x1 t6k1 tkc1 tm9 tnf tr1 trh tzg tzm1 
+391 -1 t3g t74 t7c2 tbn1 tdc2 tdg1 thb1 tmh1 tv32 txg 
+554 -1 t102 t55 t5t1 t5z1 t9q1 tb71 tg7 tng1 trx tt21 
+831 -1 t4w t7k1 tb7 td32 tgt1 tm81 tpr tqz1 trr tzl 
+570 -1 t19 t2m1 tcf1 tfb1 tkk tm02 tqc tr51 txh1 tzh1 
+159 -1 t3b1 t561 t711 t74 t82 tc2 tgt1 tt6 txf1 tzq1 
+812 -1 t011 t931 tbv tdp tf01 tpb tq21 tt21 tt9 tvr 
+584 -1 t0w1 t1 t161 t3p1 t532 t5c1 t692 t8h1 t8t1 tp41 
+361 -1 t63 t9j1 t9x1 tcn1 tf42 th12 tl22 tw22 tz82 tz91 
+820 -1 t881 t9j tn3 tnl tp21 tq91 trv ttb1 tw81 tz02 
+610 -1 t771 tb91 tdd1 tgr1 thc2 tlw1 tnj tq01 txf1 txx 
+352 -1 t3p1 t3r1 t8l t9x1 td7 tgc th1 tt42 ttd tz42 
+743 -1 t001 t011 t221 t291 t3k t7d t8h tjt1 tq5 tr51 
+347 -1 t6t tdn tf2 tfj th5 tjq ttc1 tv7 tvc1 tz21 
+245 -1 t0f1 t15 t1v1 t4d2 t68 tfh1 trr tw2 tw5 twq 
+251 -1 t001 t3m tb22 td62 tf2 tgb2 tgn th61 tjc tqv 
+718 -1 t0j1 t4d1 tbc tgp1 thx tq2 tqq tr5 tt11 ttz 
+272 -1 t221 t4x1 t561 t7p t881 t8t1 tht1 tss1 ttb2 tz91 
+708 -1 t11 t3c1 tb7 tft tj3 tj82 tl71 ts72 tz42 tzx1 
+707 -1 t281 t78 tcc tdb2 tjb1 tr61 tsq ttm tv1 tvk 
+650 -1 t0c t521 t5f1 t64 t7x tf42 tfc2 tr8 tt21 ttp 
+663 -1 t001 t1s t1v1 t4m1 t76 tf2 tpd tv tvs1 twr 
+671 -1 t3q t3v t711 t7d1 t7k1 t8f thv tmj1 tn22 tvl1 
+878 -1 t1v1 t221 t2b1 t4m t532 tc82 thr tjr1 tr42 tt 
+516 -1 t06 t342 t4t1 td62 tl6 tld1 tq81 tqz1 tw82 tzn 
+25 -1 t1v1 t2m t661 tf42 tj91 tnn tr51 tvb1 tvf tw 
+870 -1 t2w t4g1 t4m1 t701 t76 tbp1 tqt1 trz tx8 txq 
+436 -1 t161 t2d t471 t6z t8h1 tf71 tj41 tjz tk02 tv22 
+435 -1 t0l1 t0q1 t412 t4s1 t532 t81 tgb1 tjt tp91 txd1 
+888 -1 t13 t4q1 t511 tdp1 tk82 tnm tnt trx tx11 txj1 
+502 -1 t021 t34 t38 t3v1 t4n1 t78 tb5 thc1 tlr1 tn3 
+41 -1 t1g t422 t531 tgb2 tq31 tqq tqq1 tr92 trk tz91 
+229 -1 t3m t3t t9k tc7 tdv tfj tqz1 tz72 tzm1 
+922 -1 t242 t3w t7p1 tf91 thh1 tlz1 tnj tpb tsm1 
+233 -1 t1v1 t671 t6d2 tb21 tbq1 tc21 tdp tg2 tgp1 
+232 -1 t1k1 t6b2 t6q1 t9s1 td32 tdv tj8 tjt tlr 
+754 -1 t002 t12 t471 t692 t75 tbm thc1 tt tzh 
+328 -1 t131 t2x1 t5j1 t7k1 tdg1 tg62 thv tlz1 trf1 
+225 -1 t38 t9k tlm tpb trr trt tsq1 tsw1 tww 
+483 -1 t141 t3m t4c2 t4q1 t7q1 tc2 tm11 tpn1 tq01 
+605 -1 t8j t8l1 tj7 tkw1 tlz1 tq81 trk tz91 tzn 
+604 -1 t76 t7n1 t8n tb62 tf2 tkg1 tt82 twn1 tz31 
+400 -1 t6q1 tbw tj91 tkh1 tm52 tn4 tw52 tww tzm1 
+255 -1 t112 t1v1 t5w1 t7d1 t8n tm1 tp41 trv twd1 
+261 -1 t361 t452 t6d1 tb5 tf12 tj91 tjc tjw1 tk7 
+358 -1 t0s t34 t561 tbd1 tc21 tg72 tgp1 tm02 tv12 
+267 -1 t2c t7d1 tbj tlr1 tq52 tsg ttk1 tv8 tz02 
+719 -1 t17 t2m t3h tgb2 tgc2 tls1 tpc tq21 tt11 
+460 -1 t34 t5m tbm tcj tg91 tm81 tq52 ttw tv81 
+886 -1 t041 t131 t4x1 tb7 tcm1 tdr tfr1 thg1 tj82 
+278 -1 t0l t1 t3j1 t4h1 thh1 tmt1 tsf1 tvn1 tx61 
+279 -1 t6w tcn1 tg11 tpd tr51 tst tt11 tzl tzw 
+311 -1 t2l t452 t771 tc61 tfr1 tg71 tmj1 tnd1 tr31 
+284 -1 t3g t3w t5s1 t88 tbv ts31 ts6 tsj1 tvz 
+687 -1 t3h1 t4g1 tbj th91 thj1 tqh tr82 ttq tvb1 
+906 -1 t232 t3c1 t4d1 t5m1 t621 t8k1 tt21 twp twz 
+299 -1 t0l1 t0p1 t55 t6c tc5 tcc thh1 tqt twh1 
+669 -1 t4r t752 t7s t812 t88 tbj tgc tqv tss1 
+442 -1 t4d1 t87 t881 t8w tf21 tg71 tqn txf1 txk1 
+597 -1 t0t1 t5s1 t64 tb31 thp tm7 tpg1 tsv1 tv9 
+73 -1 t221 t5l t6x t7d tn3 tnv tpx tvh tz9 
+396 -1 t4t1 t592 t69 t6k1 tf42 th8 tlb1 tn3 tn81 
+406 -1 t041 t33 t462 t4d2 tdd1 thw tk6 tpc1 tv01 
+526 -1 t621 t64 t661 t8n t9k tb9 tf41 tg7 ttb2 
+421 -1 t672 t692 tb92 tbw1 tdp tfj th11 th42 tsw 
+852 -1 t0c t2d t532 t6z1 t76 tdp1 tkc1 tkx tr42 
+978 -1 t031 t86 tbz1 td62 tf4 tft thf tll1 tpg1 
+60 -1 t241 tgp1 th81 thn tl82 tm2 tr42 ts12 tv02 
+863 -1 t5s t5w1 t721 t8j tf81 tj8 tq51 tt82 tz81 
+865 -1 t181 t242 t3d t49 t8 t9g tgc trt tss1 
+142 -1 t0w1 tc11 thv tk82 tnt1 trk1 tt4 tvc1 tzh 
+39 -1 t401 t4w1 tdq tgt1 th1 tqz trq1 tv1 tvc2 
+369 -1 t541 t82 t9c tdg tf6 thr tm3 trx tzt1 
+203 -1 t131 t332 t7n1 t7w tgp tv7 tv9 twg1 tz61 
+786 -1 t181 t2r t3c1 t5f1 tm52 tp21 tv02 tv1 tx1 
+596 -1 t672 t6z t7d1 tf2 th61 thb1 tl6 tqs tz6 
+362 -1 t451 t5q1 tc11 td tf92 tmb1 tnq tp92 txm1 
+815 -1 t2 t4k t771 tht1 tkf tlm tm42 tn71 trk 
+178 -1 t4l1 tc11 td41 tdd1 thk1 tkc1 tpd tvb2 tzw 
+821 -1 t351 t3j1 t8l tjj1 tl31 tmf tp12 tpk1 tww 
+430 -1 t002 t0b1 t441 t65 tmx tt4 ttd twh tz22 
+935 -1 t141 t7v1 t861 t8j1 tg7 tk22 tqv1 tvz twz 
+536 -1 t291 t4j t9d1 tbv tpc1 tqz1 tsr1 tzt1 
+309 -1 t221 t2z1 tbv td22 tjz tpc1 tvs1 tz1 
+593 -1 t361 t641 t6q1 t7j1 tdg1 tk4 tqd1 tv21 
+514 -1 t11 t4d1 t86 t8b1 tf2 tft1 trm tv21 
+591 -1 t5w1 tjc tl61 tlm tn12 ttz1 txm tzn 
+656 -1 t33 t39 tcv1 td6 tq61 tr51 tt32 tzw1 
+440 -1 t562 t8r1 tc11 tgc2 tk6 tl3 tns tpc 
+560 -1 t1w t762 t8b1 t9q1 tj71 tkd tv22 tw11 
+473 -1 t232 t3q1 t4d2 t572 t9c t9z1 tmj1 tr51 
+565 -1 t012 t1 t1q t5f1 t7n1 t882 tpd1 tz51 
+319 -1 t2 t33 t452 t6c1 tbx thf ttg1 tvf 
+439 -1 t692 tb8 tg71 tl72 tq52 tqc tzb2 tzr 
+640 -1 t3 t6d2 t8l tfv tjm tt11 tv52 twc1 
+446 -1 t0c t33 tb5 tbb2 th5 thb1 tk tk6 
+997 -1 t19 t311 t3b2 t452 t6c t881 thh tpn1 
+212 -1 t2g1 t381 t8m t981 t9k tf31 tnm tt52 
+193 -1 t8l1 tb72 tdg tfb1 tpc1 tx71 tz21 tzq1 
+787 -1 t0g1 tf01 th42 tmj1 trx1 tt8 tw11 tz7 
+29 -1 t8f1 tbb2 tdn tgb2 th1 tr21 ts92 txf1 
+804 -1 t1l1 t6r1 tcc thc tnc2 tpz tsp tss1 
+811 -1 t4r t682 t9k1 td7 thg1 tlb1 tnk tzd1 
+177 -1 t2b1 t911 td4 tgn1 thb1 tnj ttd1 tw11 
+827 -1 tcf td62 tg32 tgc thc tmx1 tsq1 tx01 
+851 -1 t7q1 t7v1 tf71 thp1 thz tnm tr82 tx1 
+933 -1 t0w1 t3p t7v tgt1 tkz1 tng tq81 tw11 
+140 -1 t1s t2r1 t991 t9d1 tfw tkt1 tm52 tr5 
+62 -1 t5f t8b1 tp32 tqb tr5 tt tw52 txh 
+63 -1 t0s1 t1l1 t4f t9d1 tkc1 tkf tl72 tn92 
+839 -1 t1s t3c1 t9x1 tc11 thc1 tkc1 tm32 tq01 
+850 -1 t4t1 t74 tkc tqq ttz1 tvh tvr tx51 
+975 -1 t1n1 t4g1 t861 tdg tm7 tm81 tst tt4 
+100 -1 tcf tdd1 tj41 tq91 tv tvk txp1 tz42 
+849 -1 t241 t332 t372 t6r tj41 tr51 tr82 tt82 
+240 -1 t0l1 t1q t511 t5g tcq tg7 tm41 tnw 
+908 -1 t3w t55 t68 t74 t7g1 tp62 tv32 tx41 
+274 -1 tcw1 td22 td82 tr7 ts51 ttw1 tw52 tz61 
+693 -1 t0v t3c tcn tcv1 tjh1 tq32 tsm1 tt82 
+724 -1 t0z1 tgv1 tn12 tpc tpc1 tr5 tsq1 tt82 
+727 -1 tmp tn4 tp62 tpd tt82 tvp tvw1 tz9 
+7 -1 t2m1 t2x1 t5p1 tdm1 tjp tk6 ttc twg1 
+24 -1 t13 t691 t711 tp62 tq91 ttj tx7 txg 
+283 -1 t361 t4w t552 t5v1 tbv tfr1 tqv tt6 
+875 -1 t511 tbm tfb1 tjb tqk1 tsz tw42 twz 
+682 -1 t3k t602 td82 tn81 tqz1 trr1 trs1 tz9 
+925 -1 tct tg7 th11 tht1 tkh1 tkt1 tp3 tz22 
+222 -1 t032 t8b1 t902 tbt tdc tf2 trm tvb 
+931 -1 t7d tf3 tjx1 tnv tqf tqq ttc1 tz61 
+213 -1 t1m1 t6f t76 t8b1 t8w tcv1 tjk tpg1 
+776 -1 t2t t7d1 t8f tgh tmg tpc1 tv4 txd 
+893 -1 t011 t692 t6t tgp1 tp12 tv6 tv7 
+1 -1 t6c t81 tc51 tgr trn twt1 tzb1 
+412 -1 t161 t271 t572 t8t1 tgs tkg tl3 
+45 -1 t0t1 tfj tgc thg1 tls1 tqb2 tzc2 
+425 -1 t34 td tfz1 tl3 tp8 tz02 tz91 
+377 -1 t7p1 tbt1 tbv1 tfz1 tgb tj8 tw52 
+186 -1 t55 t6k tjp tsk tt81 ttd tx 
+298 -1 t0t1 t901 thb1 thc1 tt ttm tzb1 
+312 -1 t0s t9q th42 tjj1 tkr1 tnj tqv 
+315 -1 t0c t78 t861 t8m tm02 tv4 tv92 
+332 -1 t291 t392 t4w t861 t8w tf42 ts2 
+342 -1 t182 t39 t3d1 t3w td tgk1 th1 
+346 -1 t7p1 tl9 tl91 tlm tpc1 tsx1 tth1 
+239 -1 t2m t531 t881 tgp1 tj82 tqs tv1 
+356 -1 t7v thn tkr tp41 tq81 tqv1 twg1 
+209 -1 t181 thg1 tl51 tl72 tmf tt tvr 
+75 -1 t0k1 t6r1 t6t tg32 thv tqs tr42 
+184 -1 t5f1 tbs tnl tp62 trn1 ts5 tzw 
+174 -1 t0f1 t381 tdm1 tm41 tm9 tw6 tzl 
+303 -1 t361 t9c2 tbj tmg tpr1 tsq tw7 
+378 -1 t19 tgt1 tjs1 tpc1 tpj1 ttc2 tv81 
+136 -1 t0c t1s tdz1 th8 tkr1 tl81 tp6 
+380 -1 t111 t1v1 t2q t4l t6g thj1 trc1 
+121 -1 t0f1 t3b1 td2 th8 tpp1 tq01 tr3 
+77 -1 t3n t512 t76 tdb2 tr51 tr92 tz42 
+790 -1 t0f t622 t6d tc11 td51 tkl txf1 
+611 -1 t38 t7d t7p1 t9q1 tbj tlt tpn 
+652 -1 t311 t771 tcz tn3 tn51 tt11 tvr 
+658 -1 t421 t81 tcn1 th61 tn3 tt92 tw11 
+667 -1 t292 t651 t7x tfr1 tjs1 tqz1 tw11 
+672 -1 t141 t322 t3c1 tbs tc32 th61 trr 
+680 -1 t4d2 t8t1 tf42 tl5 tqx ts92 tt 
+690 -1 t032 t3d2 t3r1 td51 tg61 thr tp4 
+692 -1 t232 t2q1 t6k1 t9f1 tbj tq52 ttw1 
+702 -1 t392 t511 tbj td tdp1 tht1 tqc 
+713 -1 t76 t8h1 t8n t9p tcj1 tg12 tp21 
+742 -1 t462 t4d2 t622 t6d2 t7n1 t8h1 tlx 
+778 -1 t4h t63 t8w tf22 tf42 thr tsj1 
+785 -1 t0f1 t55 t572 td71 tz02 tzk1 tzr 
+733 -1 t141 t5q1 t701 tc21 tjs1 tm32 tn51 
+791 -1 t3w t5v1 t9c tb01 tq01 ttz1 tvb1 
+807 -1 td62 tg6 thc1 tms tpc tww txg 
+809 -1 t1w t512 t732 th61 tmp1 trc1 twd 
+819 -1 t0r1 t2x1 t4h t81 t9c tj82 tl9 
+822 -1 t8h1 tcw tg9 tk51 tpb2 tsz1 tt4 
+823 -1 t34 t5l1 tjj tkc1 tld1 tnl tv81 
+826 -1 t891 tq81 tq91 tsg tsw tv9 tz42 
+842 -1 t101 t7p1 tfm tn8 txf1 tz1 tz9 
+983 -1 t3n t6h t7l1 tgl tnj tp81 tvr 
+869 -1 t311 t8b1 tcc2 tmt trm tz61 tz82 
+874 -1 t0g1 t4r t91 tm81 tq52 twx1 twz 
+917 -1 t5w1 t66 tcn tkr1 tn4 tpl twx1 
+895 -1 t0l1 t212 t35 t6z1 tmj1 tn12 ts8 
+574 -1 tbs1 tk71 tm42 tpc tpq1 tww tz61 
+453 -1 t471 t511 t6j1 tqd tsd twd1 tz82 
+486 -1 t051 t3k t782 tdb1 thr tqk1 tx72 
+491 -1 t2 t6t t88 t9h tc81 tfd tn32 
+519 -1 t0g1 t5c t6b2 tcw tgc tjl tmf 
+540 -1 t3s1 t7p1 tbf1 tln tq01 twc2 txg 
+489 -1 t86 tfc2 tgd tgx tlp ts42 ttc 
+520 -1 t0h1 t3g t522 t5t t8l1 tld1 tnj 
+767 -1 t5c2 t86 tld1 tsx tz81 tzt1 
+176 -1 t4x t5w1 t6r tcn1 twg1 tx51 
+515 -1 t3z1 tc21 tc61 tr9 tx51 tzw 
+397 -1 t2j1 t38 t452 t5v1 t7c2 tn21 
+205 -1 t462 t512 t8l1 td62 tqx tts1 
+357 -1 t1w1 t9x1 th42 tnz1 tr41 tsf1 
+772 -1 t8z1 tj52 tk22 tn51 tq52 tsw1 
+738 -1 t6m1 tb5 tm7 tn5 trt1 tv1 
+764 -1 tcj1 tf52 thh1 tl31 tqc tqv 
+230 -1 t6z t7d tc21 tcl th7 tt6 
+747 -1 t0j1 tc5 tcv1 tl21 tpb tpc 
+235 -1 t38 tgc tjl tlb1 ts7 ttc1 
+538 -1 tf81 tfb1 tpw1 tt11 tv8 tzk1 
+741 -1 t0b1 t38 t7d t8b1 th1 thh1 
+531 -1 t4g1 t6n1 tcl td32 tf01 tjn1 
+843 -1 t4r t511 t7q1 t7w1 tpb2 tps1 
+441 -1 t4d1 t802 th1 tjt tjz tnf 
+914 -1 t971 tc51 tgf1 tn81 tsw tv72 
+938 -1 t3d t3j1 t3w1 tfc2 tg7 tvm1 
+854 -1 t002 t1k t1q tf62 tnx tt3 
+955 -1 t012 t0j1 t2c1 thh1 tn3 tv8 
+848 -1 t0f1 t38 t54 t5s1 tcl tng 
+74 -1 thc1 ths1 tj41 tpn1 tqh tv 
+966 -1 t0c t511 tfh tkx1 tpk1 tvr 
+170 -1 t342 t3k t692 tl71 tqq1 tx82 
+107 -1 t9h tf22 tgq1 tl6 tnm tsr1 
+110 -1 t021 t481 t7j1 td7 tfc2 tqm1 
+976 -1 t2 t2z1 t66 t6n1 td51 thl1 
+112 -1 t911 tg7 thc1 ttn txf tzt1 
+431 -1 t4p1 t622 t8k tm42 tp02 ttb1 
+132 -1 t771 t8q tfm1 ttn tw02 twg1 
+829 -1 t221 thc tjr1 tn92 tr2 tvj 
+164 -1 t21 t4x tc61 tj22 tjq1 twz 
+354 -1 t291 t7l1 thn tq42 tqq twj 
+316 -1 t2t t4c1 tbv tdn1 tnd1 tpd 
+323 -1 tjt1 tns1 trq1 tsw ttc tz21 
+325 -1 t221 t3r1 t762 tb7 tnf tqr 
+326 -1 t43 t792 tfr1 tlr1 tmn tvb1 
+655 -1 t0w1 t122 t7d1 tfz1 tjj1 tq12 
+647 -1 t3q1 t881 t9q tk6 tt11 tt72 
+592 -1 t0d t7p1 t9z1 tbz1 tf11 th11 
+575 -1 t0l1 tjs1 tm42 tp41 tsg tx71 
+678 -1 t0j1 t9c1 tb02 tcv1 tt6 tx51 
+334 -1 t001 tbv thn tpr1 twg1 tzg 
+374 -1 t3c1 t492 t6 t8l1 tfz1 tm8 
+293 -1 tf51 tfc2 tj91 tsp tsz tw81 
+340 -1 t312 tf22 tqg1 tsj1 tv61 twn1 
+258 -1 t231 t33 t3p t9h tmh tv91 
+730 -1 t141 t561 tdn1 th1 tpr1 trm 
+621 -1 t0h1 tcv1 tdn1 ts6 tss tt22 
+556 -1 t462 t9k tm32 ttb1 tv32 tzn 
+379 -1 t5r t9c2 th71 tmf tnx tr82 
+351 -1 t1w t862 t9h tk21 tnz1 tzn 
+333 -1 t0b1 t0t1 t2 tgb2 tz22 
+989 -1 t462 t4m1 tb91 tgt1 tjb2 
+649 -1 t1 t86 td32 th1 tq12 
+14 -1 t1n1 t622 t9z1 tfj thc1 
+16 -1 t8b1 td8 tf01 tr2 tvh 
+971 -1 t7d t921 td62 trt ttb2 
+17 -1 t2m1 tcx tdz1 tpd tqp1 
+646 -1 t351 t551 tm81 tqx txf1 
+639 -1 t3q1 tgg tj41 tl81 tpx1 
+477 -1 thb1 tjf1 tr5 trr tv9 
+959 -1 t6w1 t8n tsw tv32 tzw 
+626 -1 t011 t512 t6t tjq1 tjr 
+33 -1 t96 tc31 tv9 tvt tw22 
+642 -1 t66 tf81 thk1 tkt ts92 
+948 -1 t071 t1d1 tgn tkc1 tsx1 
+43 -1 t9z1 td7 tkr1 trs1 tzk1 
+42 -1 t2f t88 thc tj9 tp7 
+859 -1 t312 tlz1 tq52 tr82 ttb2 
+691 -1 t1r1 t6c2 tqk1 tqs tw11 
+448 -1 t6b1 tfc1 tl6 tn81 trd1 
+722 -1 t002 t031 td62 td81 tlz1 
+748 -1 t172 t621 t73 t8v tbw 
+268 -1 t0l1 t342 t81 tx01 tzn 
+766 -1 ths tm81 tq91 tt31 tts1 
+276 -1 t55 t771 th01 thc trp 
+220 -1 td51 tfq1 tq01 trk tvf 
+694 -1 t002 t9h tb11 tg7 tzv 
+210 -1 t33 t4d2 tc6 trr ts2 
+780 -1 t481 t4x t681 t7 tn3 
+282 -1 t1h tbj tjw1 tnh tqz 
+784 -1 t332 t74 tbm tm81 tpt1 
+194 -1 t07 tl72 ttf1 tx41 tz02 
+317 -1 t9x1 tdv tk5 tqk tqk1 
+192 -1 t02 t6c t882 t98 thk1 
+569 -1 t64 tg1 tkt1 tmj1 tzw 
+506 -1 t861 tcb tn6 tpr1 twg1 
+420 -1 t0l1 tcw1 thg1 tls txk1 
+505 -1 t0l t6r t761 t9d1 tkf 
+308 -1 t2r1 t561 t9w tfb2 tw92 
+493 -1 tq91 tr82 tsw tvc1 tzm1 
+141 -1 t3q t9v tdp tdp1 txf1 
+734 -1 t1 tf41 tr42 tvj1 tvl1 
+135 -1 tcq1 tgs1 trq1 tv51 tvh 
+602 -1 t6r t7m tf42 tgb2 tvf 
+56 -1 t8t1 tdg1 tp12 tsq1 
+122 -1 t3q tf1 tpz tzk1 

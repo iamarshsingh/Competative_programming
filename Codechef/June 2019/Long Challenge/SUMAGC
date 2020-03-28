@@ -1,0 +1,9 @@
+import random
+
+def printrand(n):
+	print(n)
+	a = [random.randInt(1,21) for i in range(n)]
+	print(a, sep=" ")
+
+for i in range(5):
+	printrand(random.randInt(3,9))
